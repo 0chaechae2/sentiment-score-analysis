@@ -8,9 +8,9 @@
 ## 분석 파일 목록 및 설명
 ### **1. .ipynb**  
 데이터 전처리 및 토큰화  
-### **2. ipynb**  
+### **2. sentiment_project_modeling.ipynb**  
 모델링 및 모델 검증  
-### **3. .ipynb**  
+### **3. wordcloud_frequency.ipynb & wordcloud_regression_coefficient.ipynb**  
 시각화 파일  
-### **4. .ipynb**  
+### **4. survey_refining.ipynb**  
 Ground-truth 이상치 제거  
