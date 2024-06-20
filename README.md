@@ -7,11 +7,11 @@
 
 ## 분석 파일 목록 및 설명
 ### **1. sentiment_project_data_processing.ipynb & crawling.ipynb**  
-데이터 전처리 및 토큰화 & 크롤링 과정
+데이터 전처리 및 토큰화 & 하나의 제품에 대한 별점 및 쇼핑 리뷰 크롤링 과정
 ### **2. sentiment_project_modeling.ipynb & sentiment_project_apply_crawling.ipynb & misclassified_data_sentimetscore.ipynb**  
-모델링 및 모델 검증 & 긍정 클래스지만 모델이 부정으로 분류한 데이터
+모델링 및 모델 검증 & 긍정 클래스지만 모델이 부정으로 분류한 데이터 추출
 - 용량이 커서 따로 올렸지만 2-2 파일들은 '2. sentiment_project_modeling.ipynb'파일에 이어서 붙여야 합니다.
 ### **3. wordcloud_frequency.ipynb & wordcloud_regression_coefficient.ipynb**  
-시각화 파일  
+시각화 과정 - 모델 적용 전 빈도수 기준 & 모델 적용 후 회귀 계수 기준
 ### **4. survey_refining.ipynb**  
-Ground-truth 이상치 제거  
+Ground-truth 이상치 제거 과정
